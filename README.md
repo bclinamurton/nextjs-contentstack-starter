@@ -19,6 +19,9 @@ These are the first steps you need to complete to be able to follow instructions
 ## Let's Get Started! 
 <br/>
 
+Steps 1 - 4 are the instructions to follow after you click Deploy! 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbigcommerce%2Fnextjs-contentstack-starter&env=CONTENTSTACK_API_KEY,CONTENTSTACK_ACCESS_TOKEN,CONTENTSTACK_ENV&integration-ids=oac_MuWZiE4jtmQ2ejZQaQ7ncuDT&skippable-integrations=1)
+
 
 ### Step 1: Create Your BigCommerce Store
 You need API keys from BigCommerce, which is why you create the store first. 
